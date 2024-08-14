@@ -19,7 +19,7 @@ go get github.com/parparvaz/sanbod-sdk-golang
 
 #### Setup
 
-Init client for API services. Get ApiKey from your kavenegar account.
+Init client for API services. Get ApiKey from your sanbod account.
 
 ```golang
 var (
