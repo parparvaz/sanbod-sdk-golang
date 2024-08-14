@@ -7,7 +7,7 @@ All the REST APIs listed in sanbod API document are implemented.
 
 For best compatibility, please use Go >= 1.22.
 
-Make sure you have read kavenegar API document before continuing.
+Make sure you have read sanbod API document before continuing.
 
 ### Installation
 
