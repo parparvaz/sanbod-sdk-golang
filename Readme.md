@@ -37,7 +37,7 @@ If you have any questions, please refer to the specific reference definitions or
 
 ##### Proxy Client
 
-```
+```golang
 proxyUrl := "http://127.0.0.1:7890" // Please replace it with your exact proxy URL.
 client := sanbod.NewProxyClient(username, password, proxyUrl)
 ```
